@@ -1,0 +1,8 @@
+<pre><code class="language-ruby">def prime_factors(n)
+end
+</code></pre>
+====
+```
+def prime_factors(n)
+end
+```
